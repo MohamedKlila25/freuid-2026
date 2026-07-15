@@ -160,7 +160,7 @@ Supported extensions: `.jpg` `.jpeg` `.png` `.webp` `.bmp` `.tif` `.tiff`
 
 | Stage | Hardware |
 |---|---|
-| Training | Kaggle — 2× NVIDIA T4 (16 GB each) |
+| Training | NVIDIA RTX PRO 6000 Blackwell (96 GB VRAM) |
 | Inference / Docker | NVIDIA RTX PRO 6000 Blackwell (96 GB VRAM) |
 
 ---
